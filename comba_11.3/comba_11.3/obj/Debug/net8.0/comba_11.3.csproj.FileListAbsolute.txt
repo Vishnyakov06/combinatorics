@@ -1,0 +1,14 @@
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\bin\Debug\net8.0\comba_11.3.exe
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\bin\Debug\net8.0\comba_11.3.deps.json
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\bin\Debug\net8.0\comba_11.3.runtimeconfig.json
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\bin\Debug\net8.0\comba_11.3.dll
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\bin\Debug\net8.0\comba_11.3.pdb
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\obj\Debug\net8.0\comba_11.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\obj\Debug\net8.0\comba_11.3.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\obj\Debug\net8.0\comba_11.3.AssemblyInfo.cs
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\obj\Debug\net8.0\comba_11.3.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\obj\Debug\net8.0\comba_11.3.dll
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\obj\Debug\net8.0\refint\comba_11.3.dll
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\obj\Debug\net8.0\comba_11.3.pdb
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\obj\Debug\net8.0\comba_11.3.genruntimeconfig.cache
+C:\Users\danya\source\repos\comba_11.3\comba_11.3\obj\Debug\net8.0\ref\comba_11.3.dll
