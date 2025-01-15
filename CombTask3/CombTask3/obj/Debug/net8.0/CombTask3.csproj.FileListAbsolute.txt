@@ -1,0 +1,14 @@
+C:\Users\danya\source\repos\CombTask3\CombTask3\bin\Debug\net8.0\CombTask3.exe
+C:\Users\danya\source\repos\CombTask3\CombTask3\bin\Debug\net8.0\CombTask3.deps.json
+C:\Users\danya\source\repos\CombTask3\CombTask3\bin\Debug\net8.0\CombTask3.runtimeconfig.json
+C:\Users\danya\source\repos\CombTask3\CombTask3\bin\Debug\net8.0\CombTask3.dll
+C:\Users\danya\source\repos\CombTask3\CombTask3\bin\Debug\net8.0\CombTask3.pdb
+C:\Users\danya\source\repos\CombTask3\CombTask3\obj\Debug\net8.0\CombTask3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\CombTask3\CombTask3\obj\Debug\net8.0\CombTask3.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\CombTask3\CombTask3\obj\Debug\net8.0\CombTask3.AssemblyInfo.cs
+C:\Users\danya\source\repos\CombTask3\CombTask3\obj\Debug\net8.0\CombTask3.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\CombTask3\CombTask3\obj\Debug\net8.0\CombTask3.dll
+C:\Users\danya\source\repos\CombTask3\CombTask3\obj\Debug\net8.0\refint\CombTask3.dll
+C:\Users\danya\source\repos\CombTask3\CombTask3\obj\Debug\net8.0\CombTask3.pdb
+C:\Users\danya\source\repos\CombTask3\CombTask3\obj\Debug\net8.0\CombTask3.genruntimeconfig.cache
+C:\Users\danya\source\repos\CombTask3\CombTask3\obj\Debug\net8.0\ref\CombTask3.dll
