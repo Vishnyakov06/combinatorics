@@ -1,0 +1,14 @@
+C:\Users\danya\source\repos\CombTask4\CombTask4\bin\Debug\net8.0\CombTask4.exe
+C:\Users\danya\source\repos\CombTask4\CombTask4\bin\Debug\net8.0\CombTask4.deps.json
+C:\Users\danya\source\repos\CombTask4\CombTask4\bin\Debug\net8.0\CombTask4.runtimeconfig.json
+C:\Users\danya\source\repos\CombTask4\CombTask4\bin\Debug\net8.0\CombTask4.dll
+C:\Users\danya\source\repos\CombTask4\CombTask4\bin\Debug\net8.0\CombTask4.pdb
+C:\Users\danya\source\repos\CombTask4\CombTask4\obj\Debug\net8.0\CombTask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\source\repos\CombTask4\CombTask4\obj\Debug\net8.0\CombTask4.AssemblyInfoInputs.cache
+C:\Users\danya\source\repos\CombTask4\CombTask4\obj\Debug\net8.0\CombTask4.AssemblyInfo.cs
+C:\Users\danya\source\repos\CombTask4\CombTask4\obj\Debug\net8.0\CombTask4.csproj.CoreCompileInputs.cache
+C:\Users\danya\source\repos\CombTask4\CombTask4\obj\Debug\net8.0\CombTask4.dll
+C:\Users\danya\source\repos\CombTask4\CombTask4\obj\Debug\net8.0\refint\CombTask4.dll
+C:\Users\danya\source\repos\CombTask4\CombTask4\obj\Debug\net8.0\CombTask4.pdb
+C:\Users\danya\source\repos\CombTask4\CombTask4\obj\Debug\net8.0\CombTask4.genruntimeconfig.cache
+C:\Users\danya\source\repos\CombTask4\CombTask4\obj\Debug\net8.0\ref\CombTask4.dll
